@@ -9,6 +9,7 @@ const descriptionElement = document.getElementById('description');
 const LIcon=document.getElementById('LocIcon');
 
 
+
 searchButton.addEventListener('click',()=>{
     const location=locationInput.value
     if(location){
